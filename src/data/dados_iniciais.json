@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Shounen",
+      "link": "https://myanimelist.net/anime/genre/27/Shounen",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "All Shounen Animes",
+        "url": "https://myanimelist.net/anime/genre/27/Shounen"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Shingeki no Kyojin",
+          "url": "https://youtu.be/LHtdKWJdif4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Boku no Hero Academia",
+          "url": "https://youtu.be/D5fYOnwYkj4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Fullmetal Alchemist: Brotherhood",
+          "url": "https://youtu.be/--IcmZkvL0Q"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Hunter x Hunter",
+          "url": "https://youtu.be/yBTW-O_BiB0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Naruto Shippuden",
+          "url": "https://youtu.be/1dy2zPPrKD0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Kimetsu no Yaiba",
+          "url": "https://youtu.be/6vMuWuWlW4I"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Haikyuu!",
+          "url": "https://youtu.be/JOGp2c7-cKc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Dr. Stone",
+          "url": "https://youtu.be/2ei4KpfCOAI"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Seinen",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "All Seinen Animes",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Boku dake ga Inai Machi (Erased)",
+          "url": "https://youtu.be/DwmxEAWjTQQ"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Kaguya-sama: Love is War",
+          "url": "https://youtu.be/rZ95aZmQu_8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Vinland Saga",
+          "url": "https://youtu.be/y99VgqpW1-8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Grand Blue",
+          "url": "https://youtu.be/m-nN3SlHwZk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Gleipnir",
+          "url": "https://youtu.be/Lt8zDDCXHlo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Shouju",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "All Shouju Animes",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Fruits Basket 1st Season (2019)",
+          "url": "https://youtu.be/g5MDFMukmUI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "3D Kanojo: Real Girl",
+          "url": "https://youtu.be/NIHvbYdxdfo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Fruits Basket 2nd Season(2020)",
+          "url": "https://youtu.be/yBBePKQTWFE"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "7 Seeds",
+          "url": "https://youtu.be/XRZvxqPO9sE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Summer 2020",
+      "cor": "#cf1b1b",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Summer 2020 Japan Animes",
+        "url": "https://myanimelist.net/anime/season/2020/summer"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+          "url": "https://youtu.be/41Gj4Dri8wo"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+          "url": "https://youtu.be/UsJUP98qr1M"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "The God of Highschool",
+          "url": "https://youtu.be/oqjwUfprNAk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+          "url": "https://youtu.be/C27bHIDFU9Q"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Fall 2020",
+      "cor": "#f37121",
+      "link_extra": {
+        "text": "Fall 2020 Japan Animes",
+        "url": "https://myanimelist.net/anime/season/2020/fall"
+      },
+      "videos": [
+        {
+          "titulo": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+          "url": "https://youtu.be/tlAgPUktaUo"
+        },
+        {
+          "titulo": "Mahouka Koukou no Rettousei: Raihousha-hen",
+          "url": "https://youtu.be/ZG7Z5ccAa4I"
+        },
+        {
+          "titulo": "Jujutsu Kaisen",
+          "url": "https://youtu.be/dZPxN_2IyAI"
+        },
+        {
+          "titulo": "Fumetsu no Anata e",
+          "url": "https://youtu.be/QipcgwtdM2k"
+        },
+        {
+          "titulo": "Tonikaku Kawaii",
+          "url": "https://youtu.be/3M7w-ROU62U"
+        }
+      ]
+    },
+    {
+      "titulo": "Anime Movies",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Top Anime Movies",
+        "url": "https://myanimelist.net/topanime.php?type=movie"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Kimi no Na wa",
+          "url": "https://youtu.be/3KR8_igDs1Y"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Koe no Katachi",
+          "url": "https://youtu.be/XBNWo25izJ8"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+          "url": "https://youtu.be/QRJmlbgedkQ"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+          "url": "https://youtu.be/NhJQDAIwQVc"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Kimi no Suizou wo Tabetai",
+          "url": "https://youtu.be/MONVPR1dnRQ"
         }
       ]
     }
