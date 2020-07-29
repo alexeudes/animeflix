@@ -31,21 +31,23 @@ function CadastroCategoria() {
         );
     }
 
+    function handleSubmit(event) {
+        event.preventDefault();
+        setCategorias([
+            ...categorias,
+            values,
+        ]);
+
+        setValues(initialValues);
+    }
+
     return (
         <PageDefault>
             <h1>
                 Cadastro de Categoria: {values.nome}
             </h1>
 
-            <form onSubmit={function handleSubmit(event) {
-                event.preventDefault();
-                setCategorias([
-                    ...categorias,
-                    values,
-                ]);
-
-                setValues(initialValues);
-            }}>
+            <form onSubmit={handleSubmit}>
 
                 <FormField
                     label="Nome da Categoria"
